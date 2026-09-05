@@ -123,9 +123,10 @@
 
 ### 📫 Connect with me
 
-<!-- Add real links before publishing, e.g.:
 <p align="left">
-<a href="https://linkedin.com/in/USERNAME"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:someone@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+<a href="mailto:adysharma05@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
 </p>
+
+<!-- Add more links (LinkedIn, X/Twitter, portfolio, etc.) here in the same style, e.g.:
+<a href="https://linkedin.com/in/USERNAME"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
 -->
